@@ -1,0 +1,46 @@
+Mass properties of New_Chasis
+     Configuration: Default<As Machined>
+     Coordinate system: -- default --
+
+Density = 7850.000000 kilograms per cubic meter
+
+Mass = 26.693976 kilograms
+
+Volume = 0.003401 cubic meters
+
+Surface area = 4.212446 square meters
+
+Center of mass: ( meters )
+	X = -0.000728
+	Y = 0.395828
+	Z = -0.598099
+
+Principal axes of inertia and principal moments of inertia: ( kilograms * square meters )
+Taken at the center of mass.
+	 Ix = (-0.001355, -0.153996,  0.988071)   	Px = 3.265494
+	 Iy = (-0.001684, -0.988070, -0.153998)   	Py = 12.448718
+	 Iz = ( 0.999998, -0.001872,  0.001079)   	Pz = 13.187189
+
+Moments of inertia: ( kilograms * square meters )
+Taken at the center of mass and aligned with the output coordinate system. (Using positive tensor notation.)
+	Lxx = 13.187168	Lxy = 0.003298	Lxz = -0.013089
+	Lyx = 0.003298	Lyy = 12.230942	Lyz = -1.397309
+	Lzx = -0.013089	Lzy = -1.397309	Lzz = 3.483290
+
+Moments of inertia: ( kilograms * square meters )
+Taken at the output coordinate system. (Using positive tensor notation.)
+	Ixx = 26.918608	Ixy = -0.004396	Ixz = -0.001463
+	Iyx = -0.004396	Iyy = 21.779984	Iyz = -7.716958
+	Izx = -0.001463	Izy = -7.716958	Izz = 7.665715
+Length = 7 ft
+Width =  2 ft
+
+Total length of pipes 32900 mm or 107.94 ft ~110 ft
+24720 mm or 81.1 ft is 16 gauge pipe (1x0.06)
+5980 mm or 19.61 ft is a 14 gauge pipe (1x0.08)
+if 1 length = 22 ft so 110 ft = 5 lengths
+7x7 ft 28 gauge metal sheet for body
+Material is ASTM A106 Grade B
+
+16 gauge for side impact structure, Front hoop bracing, main hoop bracing, front bulkhead, front bulkhead support, diagonal structures, rear bulkhead and suspension structure
+14 gauge for Front hoop main hoop side mountings

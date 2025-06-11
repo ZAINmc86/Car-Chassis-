@@ -1,0 +1,47 @@
+2.2.1. Impulse-Momentum Approach
+Formula:
+
+𝐹 = 𝑚×Δ𝑣/Δ𝑡
+F= 
+Δt
+m×Δv
+​
+ 
+Where:
+
+F = Average impact force (Newtons, N)
+
+m = Mass of the moving vehicle (kg)
+
+Δv = Change in velocity (m/s)
+
+Δt = Collision duration (s)
+Assumptions:
+
+The vehicle comes to a complete stop after impact
+
+𝑣𝑓=0 m/s
+𝑣𝑓=0m/s.
+
+Collision is perfectly inelastic (no rebound).
+Calculation:
+
+Change in Velocity Δv:
+
+Δ𝑣 =𝑣𝑓−𝑣𝑖=0−27.78=−27.78 m/s
+Δ𝑣=𝑣𝑓−𝑣𝑖=0−27.78=−27.78m/s
+(Magnitude = 27.78 m/s = 100 km/h)
+
+Assumed Collision Duration Δt:
+
+Δ𝑡=0.1s
+(typical for rigid collisions)
+Δt=0.1s(typical for rigid collisions)
+
+Calculate Force F:
+
+𝐹=(200 kg × 27.78m/s) / 0.1s =55,560N
+
+Result:
+
+F≈55,560N
